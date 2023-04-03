@@ -9,7 +9,7 @@ For our project we initially explored two methods, one which uses a classical co
 
 # Running
 ## Running on Google Collab
-1. Upload a given notebook to Google colab
+1. Upload one of the notebooks to Google colab (ml_method for running the `official_test` method)
 2. If running the ml_method notebook, upload the model with the notebook or upload the model to the root of your Google drive
 3. Run all cells sequentially
 
