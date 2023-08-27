@@ -1,5 +1,5 @@
 # EmojiHunt
-Given a random emoji, this program attampts to find all locations of the matching emoji in a randomly generated image. We have developed a method that can detect emojis extremely well while being invariant to a large number of transformations and noise. For a full report on our method and other methods we explored, please check out [our report](report.pdf)!
+Given a random emoji, this program attempts to find all locations of the matching emoji in a randomly generated image. We have developed a method that can detect emojis extremely well while being invariant to a large number of transformations and noise. For a full report on our method and other methods we explored, please check out [our report](report.pdf)!
 
 ## Example
 ![emojiexample](https://user-images.githubusercontent.com/16991582/229385863-c4b9a686-fd3e-4611-b540-688f5affaec3.png)
